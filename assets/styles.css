@@ -1,4 +1,9 @@
 body {
     background-color: rgb(208, 183, 206);
     font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color:rgb(53, 3, 49)
 }
